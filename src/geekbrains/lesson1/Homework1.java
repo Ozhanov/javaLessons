@@ -2,8 +2,10 @@ package geekbrains.lesson1;
 
 public class Homework1 {
     public static void main(String[] args) {
-        task1();
+
+        //task1();
         //jbnhkjbghjkvjgv
+        //dfgdfgd
     }
 
     private static void task1(){
